@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "com.app.missionfirst",
-               "sha256_cert_fingerprints": ["C3:1A:06:9C:38:C1:DB:C7:2F:34:18:F4:E8:9A:2F:DF:69:08:A9:42:A4:F0:AF:A6:8F:99:D5:12:CC:D1:FB:44"] }
+               "sha256_cert_fingerprints": ["E8:9F:F3:B4:F4:12:0D:D7:7D:9A:D3:E8:3E:10:D2:C5:93:17:CE:3C:3B:5E:25:0D:99:E7:2F:1F:D4:27:F0:26"] }
 }]
